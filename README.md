@@ -9,7 +9,7 @@ PMA是一款专业的电力调度测试工具，它支持模拟和分析IEC 6087
 
 3.超级终端
 超级终端CRT（SecureCRT）是一款广泛使用的远程访问工具，主要应用于Windows和macOS平台上。它以其稳定的终端仿真和强大的安全功能而闻名。"CRT"在这里代表“Combines Rock-Solid Terminal”，即“兼备可靠的终端”
-。SecureCRT的核心功能包括：
+。
 
 4.电力系统安全监测装置通讯测试
 Agenttool通过与装置建立8800端口，测试上传事件格式是否符合标准，用于企业软件开发测试，仅需登录网页注册即可使用。网页直达https://www.agenttesttool.uk/（被举报已被关闭无法使用）
